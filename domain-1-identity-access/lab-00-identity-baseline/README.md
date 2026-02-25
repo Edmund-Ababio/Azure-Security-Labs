@@ -21,6 +21,7 @@ Create a secure identity baseline in Microsoft Entra ID and prepare for Azure RB
 3. Create security groups
 4. Create resource group rg-az500-identity
 5. Assign Reader role to SG-AZ-Readers at RG scope
+6. delete denied as reader role.
 
 ## Verification (screenshots)
 - [ ] Users list showing 3 accounts (no passwords shown)
