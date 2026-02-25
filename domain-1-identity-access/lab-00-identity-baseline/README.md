@@ -1,4 +1,4 @@
-# Lab 00 — Identity Baseline (Users, Groups, Break-Glass, RG Scope)
+# Day1 Lab 00 — Identity Baseline (Users, Groups, Break-Glass, RG Scope)
 
 ## Goal
 Create a secure identity baseline in Microsoft Entra ID and prepare for Azure RBAC labs.
