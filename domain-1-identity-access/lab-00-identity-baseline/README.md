@@ -11,7 +11,7 @@ Create a secure identity baseline in Microsoft Entra ID and prepare for Azure RB
 
 ## Architecture / Scope
 - Microsoft Entra ID tenant
-- Resource Group: rg-az500-identity
+- Resource Group: az500_RG
 - Users: breakglass-admin, eddie-admin, eddie-user
 - Groups: SG-AZ-Readers, SG-AZ-VM-Operators, SG-AZ-KeyVault-SecretsUsers
 
@@ -26,7 +26,7 @@ Create a secure identity baseline in Microsoft Entra ID and prepare for Azure RB
 - [ ] Users list showing 3 accounts (no passwords shown)
 - [ ] Break-glass account showing Global Administrator assignment
 - [ ] Groups list showing SG-AZ-* groups
-- [ ] rg-az500-identity → Access control (IAM) showing Reader assigned to SG-AZ-Readers
+- [ ] az500_RG → Access control (IAM) showing Reader assigned to SG-AZ-Readers
 - [ ] Test: sign in as eddie-user and confirm read-only access
 
 ## Cleanup
